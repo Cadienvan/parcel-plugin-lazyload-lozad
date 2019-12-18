@@ -1,0 +1,27 @@
+{
+    "name": "parcel-plugin-lazyload-lozad",
+    "version": "0.0.1",
+    "description": "Parcel plugin to support data-srcset, data-src, data-bg and data-background-image",
+    "main": "./index.js",
+    "keywords": [
+        "parcel",
+        "lazy",
+        "lazyload",
+        "vanilla-lazyload",
+        "images",
+        "data-src",
+        "data-srcset",
+        "data-bg",
+        "data-background-image",
+        "lozad"
+    ],
+    "author": "Michael Di Prisco",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Cadienvan/parcel-plugin-lazyload-lozad.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "parcel-bundler": "^1.10.0"
+    }
+}
